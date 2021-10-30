@@ -1,0 +1,13 @@
+.drawer-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+ .drawer-textField {
+    margin: 1em 1em !important;
+    width: 100%;
+  }
+
+  .MuiToolbar-regular{
+    min-height: 0px !important;
+  }
